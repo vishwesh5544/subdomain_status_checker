@@ -88,3 +88,13 @@ pip install requests prettytable watchdog
     ```
 
 This script and documentation provide a robust solution for monitoring the status of multiple subdomains listed in a JSON file, with the added functionality of reloading the file if it is modified, all while following an object-oriented approach and separating classes into different files.
+
+## Note
+
+This setup is done on Linux Pop!_OS using Neovim as the text editor.
+
+Link to my Neovim config: [Neovish](https://github.com/vishwesh5544/neovish)
+
+## Contact
+
+For any issues or questions, contact Vishwesh Shukla at <vishweshshukla20@gmail.com>.
